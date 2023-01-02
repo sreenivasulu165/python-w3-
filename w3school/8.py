@@ -1,0 +1,5 @@
+fruits=("lemon","mango","apple","watermilon")
+y=list(fruits)
+y.remove("lemon")
+fruits=tuple(y)
+print(fruits)
