@@ -1,5 +1,2 @@
-fruits=("lemon","mango","apple","watermilon")
-y=list(fruits)
-y.remove("lemon")
-fruits=tuple(y)
-print(fruits)
+fruits=("lemon","mango","apple","mango","watermilon","mango")
+print(fruits[3])
