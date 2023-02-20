@@ -1,0 +1,9 @@
+l=[38,45,67,56]
+b=(l)
+ba=bytearray(l)
+print(l)
+print(type(l))
+print(b)
+print(ba)
+print(type(b))
+print(type(ba))
